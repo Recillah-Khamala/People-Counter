@@ -3,6 +3,8 @@
 > Description the project.
 > This is a simple app for counting people that have entered in a place be it a building, station etc. You can save the count per hour or per group of people.
 
+[click here for live Demo](https://heartfelt-sable-bbe9d7.netlify.app)
+
 ## Technologies
 build with CSS, HTML and JS
 
